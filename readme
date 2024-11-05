@@ -1,0 +1,10 @@
+the CoMmanDline Prompt-based Monsters game
+
+CMDPM is A commandline-based and turn-based monster battle game.
+Run from code: "python main.py"
+
+Dependencies:
+csv
+colorama
+termcolor
+
